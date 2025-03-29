@@ -16,7 +16,7 @@ A **Jakarta EE-based web application** for managing college courses and students
 - **Deployment:** Running on **localhost:8080/negar/manager**  
 
 ## 📸 Screenshot  
-![College Management System](homepage.png)  
+![College Management System](home.png)  
 
 ## 🔧 Installation & Setup  
 1️⃣ Clone the repository:  
