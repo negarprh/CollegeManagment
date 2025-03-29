@@ -21,7 +21,7 @@ A **Jakarta EE-based web application** for managing college courses and students
 ## 🔧 Installation & Setup  
 1️⃣ Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/college-management-system.git
+   git clone https://github.com/negarprh/college-management-system.git
    cd college-management-system
    ```  
 3️⃣ Deploy the application on a Jakarta EE-compatible server (e.g., **Tomcat**).  
