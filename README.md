@@ -81,5 +81,5 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 For any questions or issues, reach out via:  
 📧 **Email:** negarpr@hotmail.com  
 🔗 **GitHub:** [Negar's Profile](https://github.com/negarprh)  
-🌐 **Portfolio:** [Portfolio's Link]([https://negarprh.github.io](https://negarprh.github.io/Portfolio/))  
+🌐 **Portfolio:** [Portfolio's Link]([https://negarprh.github.io](https://negarprh.github.io/Portfolio/)  
 🔗 **LinkedIn:** [Linkdin](https://www.linkedin.com/in/negar-pirasteh/)
